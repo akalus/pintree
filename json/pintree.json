@@ -489,6 +489,27 @@
                 "title": "微信小游戏广告sdk接入（广告归因sdk）",
                 "icon": "https://logo.clearbit.com/doc.weixin.qq.com",
                 "url": "https://doc.weixin.qq.com/doc/w3_ANYALQY-AEkzz9MDrwwS7KEbhTij7?scode=AJEAIQdfAAo2w8EWjLz9mMgy5vAH8"
+              },
+              {
+                "type": "link",
+                "addDate": 1733986511572,
+                "title": "DataNexus｜腾讯广告",
+                "icon": "https://logo.clearbit.com/datanexus.qq.com",
+                "url": "https://datanexus.qq.com/web/monitor/conversion"
+              },
+              {
+                "type": "link",
+                "addDate": 1733994534395,
+                "title": "用户行为添加/更新 | DataNexus 文档中心｜腾讯广告",
+                "icon": "https://logo.clearbit.com/datanexus.qq.com",
+                "url": "https://datanexus.qq.com/doc/develop/guider/interface/action/dmp_actions_add"
+              },
+              {
+                "type": "link",
+                "addDate": 1733994573825,
+                "title": "广告点击 | DataNexus 文档中心｜腾讯广告",
+                "icon": "https://logo.clearbit.com/datanexus.qq.com",
+                "url": "https://datanexus.qq.com/doc/develop/guider/interface/conversion/ad_track_click"
               }
             ]
           },
@@ -1033,13 +1054,6 @@
           },
           {
             "type": "link",
-            "addDate": 1672296675270,
-            "title": "The Difference Between The Clever Developer & The Wise Developer | by Ben \"The Hosk\" Hosking | ITNEXT",
-            "icon": "https://logo.clearbit.com/medium.com",
-            "url": "https://medium.com/itnext/the-difference-between-the-clever-developer-the-wise-developer-a0edd9d8a692"
-          },
-          {
-            "type": "link",
             "addDate": 1730181676720,
             "title": "The Curious Incident of the Dog in the Night-time 《深夜小狗神秘事件》——孤独的勇士",
             "icon": "https://logo.clearbit.com/mp.xdfsjj.com",
@@ -1098,24 +1112,10 @@
       },
       {
         "type": "link",
-        "addDate": 1650331169403,
-        "title": "(4条消息) shell脚本语言(超全超详细)_看见代码就想敲的博客-CSDN博客_shell脚本",
-        "icon": "https://logo.clearbit.com/blog.csdn.net",
-        "url": "https://blog.csdn.net/weixin_43288201/article/details/105643692"
-      },
-      {
-        "type": "link",
         "addDate": 1661131873328,
         "title": "SVN 命令符号详解 - 纯白、色 - 博客园",
         "icon": "https://logo.clearbit.com/www.cnblogs.com",
         "url": "https://www.cnblogs.com/jkcx/p/6440358.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1663670010675,
-        "title": "这些年搜集的 Linux 常用命令",
-        "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-        "url": "https://mp.weixin.qq.com/s/tiezgncHQF7J6lteEvkmww"
       },
       {
         "type": "link",
@@ -1133,17 +1133,17 @@
       },
       {
         "type": "link",
-        "addDate": 1680946310666,
-        "title": "一文回顾Reids五大对象(数据类型) | 随于而安",
-        "icon": "https://logo.clearbit.com/www.laoyu.site",
-        "url": "https://www.laoyu.site/2020/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/redis/%E4%B8%80%E6%96%87%E5%9B%9E%E9%A1%BEReids%E4%BA%94%E5%A4%A7%E5%AF%B9%E8%B1%A1(%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)/"
-      },
-      {
-        "type": "link",
         "addDate": 1717639794323,
         "title": "💽 制作自己的镜像 - Docker 快速入门 - 易文档",
         "icon": "https://logo.clearbit.com/docker.easydoc.net",
         "url": "https://docker.easydoc.net/doc/81170005/cCewZWoN/N9VtYIIi"
+      },
+      {
+        "type": "link",
+        "addDate": 1736132957464,
+        "title": "DeepSeek - 探索未至之境",
+        "icon": "https://logo.clearbit.com/chat.deepseek.com",
+        "url": "https://chat.deepseek.com/a/chat/s/75ed0a3a-aaa7-4b7e-a1b9-004cb075f957"
       }
     ]
   },
