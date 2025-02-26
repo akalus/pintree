@@ -1,46 +1,44 @@
-                                                                                                                                                                                                                                                buffers 1 [
-  2     {
-  3         type: folder,
-  4         addDate: 1646622035670,
-  5         title: 电影,
-  6         children: [
-  7         ¦   {
-  8         ¦       type: folder,
-  9         ¦       addDate: 1675774071876,
- 10         ¦       title: 007系列,
- 11         ¦       children: [
- 12         ¦       ¦  {
- 13         ¦       ¦       type: link,
- 14         ¦       ¦       addDate: 1721032929550,
- 15         ¦       ¦       title: 007 01 Dr No.诺博士 1962.720p.BluRay.x264.AAC-iSCG.mkv,
- 16         ¦       ¦       url:  https://www.aliyundrive.com/s/7Ecj2zvEZVN,
- 17         ¦       ¦       icon:
- 18         ¦       ¦   },
- 19         ¦       ¦   {
- 20         ¦       ¦       type: link,
- 21         ¦       ¦       addDate: 1736823145133,
- 22         ¦       ¦       title: 007 02 From Russia with Love.来自俄罗斯的爱情 1963.720p.BluRay.x264.AAC-iSCG.mkv,
- 23         ¦       ¦       url: https://www.aliyundrive.com/s/6VEsv6p9m9X,
- 24         ¦       ¦       icon:
- 25         ¦       ¦   },
- 26         ¦       ¦   {
- 27         ¦       ¦       type: link,
- 28         ¦       ¦       addDate: 1736921633109,
- 29         ¦       ¦       title: 007 03 Goldfinger.金手指 1964.720p.BluRay.x264.AAC-iSCG.mkv,
- 30         ¦       ¦       url: https://www.aliyundrive.com/s/qE5abNY4hMu,
- 31         ¦       ¦       icon:
- 32         ¦       ¦   },
- 33         ¦       ¦   {
- 34         ¦       ¦       type: link,
- 35         ¦       ¦       addDate: 1739002653796,
- 36         ¦       ¦       title: 007 04 Thunderball.霹雳弹 1965.720p.BluRay.x264.AAC-iSCG.mkv,
- 37         ¦       ¦       url: https://www.aliyundrive.com/s/4yj5hDgaJqe,
- 38         ¦       ¦       icon:
- 39         ¦       ¦   }
- 40         ¦       ]
- 41         ¦   },
- 42         ]
- 43     }
- 44 ]
- NORMAL    ziyuan.json                                                                                                                                                                                                            json   [unix]   100%  :44/44☰  ::1 
-"ziyuan.json" 44L, 1731B 已写入
+[
+    {
+        "type": "folder",
+        "addDate": 1646622035670,
+        "title": "电影",
+        "children": [
+            {
+                "type": "folder",
+                "addDate": 1675774071876,
+                "title": "007系列",
+                "children": [
+                   {
+                        "type": "link",
+                        "addDate": 1721032929550,
+                        "title": "007 01 Dr No.诺博士 1962.720p.BluRay.x264.AAC-iSCG.mkv",
+                        "url":  "https://www.aliyundrive.com/s/7Ecj2zvEZVN",
+                        "icon": " "
+                    },
+                    {
+                        "type": "link",
+                        "addDate": 1736823145133,
+                        "title": "007 02 From Russia with Love.来自俄罗斯的爱情 1963.720p.BluRay.x264.AAC-iSCG.mkv",
+                        "url": "https://www.aliyundrive.com/s/6VEsv6p9m9X",
+                        "icon": " "
+                    },
+                    {
+                        "type": "link",
+                        "addDate": 1736921633109,
+                        "title": "007 03 Goldfinger.金手指 1964.720p.BluRay.x264.AAC-iSCG.mkv",
+                        "url": "https://www.aliyundrive.com/s/qE5abNY4hMu",
+                        "icon": " "
+                    },
+                    {
+                        "type": "link",
+                        "addDate": 1739002653796,
+                        "title": "007 04 Thunderball.霹雳弹 1965.720p.BluRay.x264.AAC-iSCG.mkv",
+                        "url": "https://www.aliyundrive.com/s/4yj5hDgaJqe",
+                        "icon": " "
+                    }
+                ]
+            }
+        ]
+    }
+]
