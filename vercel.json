@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "nav-seven-iota.vercel.app"
+        }
+      ],
+      "destination": "https://file.ziyuan.fun/:1",
+      "permanent": true
+    }
+  ]
+}
